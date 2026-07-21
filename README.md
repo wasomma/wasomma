@@ -11,7 +11,12 @@ the repositories here are demonstration pieces built on personal time. The best
 place to start is [fpv-sim](https://github.com/wasomma/fpv-sim), a single-file
 FPV sUAS vs cUAS force-on-force simulation with a
 [live demo](https://wasomma.github.io/fpv-sim/), where emissions discipline
-decides the fight.
+decides the fight. Its companion, [fpv-sim-mcp](https://github.com/wasomma/fpv-sim-mcp),
+extracts that simulation into a headless engine and serves it over the Model
+Context Protocol: five typed tools that let an AI agent run deterministic
+engagements, sweep seeds, and settle doctrine questions with paired
+experiments — and discover for itself that the side that transmits less is
+harder to fix.
 
 Formerly: simulation training product development at MAG Aerospace, SIGINT test
 and training on Army ISR programs, and six years as a USAF airborne cryptologic
