@@ -16,7 +16,9 @@ extracts that simulation into a headless engine and serves it over the Model
 Context Protocol: five typed tools that let an AI agent run deterministic
 engagements, sweep seeds, and settle doctrine questions with paired
 experiments — and discover for itself that the side that transmits less is
-harder to fix.
+harder to fix. It runs locally over stdio or as a hosted remote endpoint
+(Streamable HTTP behind TLS), so an agent anywhere can connect without
+building anything.
 
 Formerly: simulation training product development at MAG Aerospace, SIGINT test
 and training on Army ISR programs, and six years as a USAF airborne cryptologic
