@@ -1,7 +1,7 @@
 # Wesley Fine
 
 Senior Director of Solution Engineering at BAE Systems OneArc. I lead solutions
-engineering, proposal operations, and customer success for a $100M defense
+engineering, proposal operations, and customer success for a defense
 technology business, and I'm a hands-on practitioner of agentic AI: agentic
 workflows for proposal and estimation automation, RAG interfaces over business
 systems, and MCP-based integration between simulation environments.
