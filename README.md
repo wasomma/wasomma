@@ -32,3 +32,13 @@ and training on Army ISR programs, and six years as a USAF airborne cryptologic
 linguist with 2,000+ combat hours.
 
 [LinkedIn](https://www.linkedin.com/in/wesleyfine/)
+
+## License
+
+All repositories here are public for demonstration, not open source. Unless a
+repository states otherwise, their contents are licensed under the
+[PolyForm Strict License 1.0.0](LICENSE.md): you may read and use them for
+noncommercial purposes, but no rights are granted to modify, redistribute, or
+use them commercially.
+
+Required Notice: Copyright © 2026 Wesley Fine (https://github.com/wasomma)
